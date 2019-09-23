@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tidy-agency-253803",
+  "private_key_id": "8722c4bfd2b53d1695b12f845b49ee0a0a38fec0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCv2NTX9JwFemVb\nxa0PRcazynLBKX/ydk3fOLQBxlR4eVGYFJmSy1lu8paPWeRI+m0CCuSfxD5ZeBlW\nTEo2DNvpWMufBdgIXX7GcFIY+nFWWvcKga9PnA5UPyvWB3bhxbLojfijPQ9F2XaF\nDYFGyK5vedy1aTN0T0wqH4YKbGwFwzHL8uUcNTFObHNJNTErIy4FQLuLsBqsSCUz\nczcqyZZaNLzdH3/+BfzV64vED4pV6ZhrDOJWsqw7iKqhapeRRSfNu5l4t2bF1BIm\nx2whH3ybgqJGzTm8e71b461eusnPSuQTSwABHC6jiPo7uLMhpnyqksKkEFHZZEfo\ntaABGKXnAgMBAAECggEABHwjxZREDHG4NxR+GvcdH8XIknuj+0OgLdLM6ISt79qs\nRZQ07IUKNWWziFlzFJdqg1RSy25eZrrE7qoIdIN0cmmk29vyzBfSXW5M8b0led3d\nEiQHnCCvTt/DlvReyFhZ/UttrYAnrRDkUHVtOChzJn21rtzNhqhlGWfva8GjKaxr\ncGUT3oNDtep+2Iiae/ga0zK4awKeVp6q2v6c/Szd1A9b22UC3v7XtRN0iWlVIc3t\nmki+PUj4Tslu8O+S/slAlkeGTsXHGuAfEApG4LviVZeKFdEAasQynwT/kEA+4WcC\n48ZcMA61xozyYJERmV7+C5K9Pl6qY5gAqNlWWShTqQKBgQDpAHDd54FeBopFqJQS\nvgRr8ir/HZWS9VomXUa+naJ8OZbdVbR82sBNuPNKUu4WMzU3x5qKv2tPoiHHIowR\nI9s5LNaWx8DLZ7tSkHXvRutvd7uEfU/UoScsrfi8jICpyhwf6jVufbUKaUrlS5CB\nnEaIgL/ZG/LoKeWtXRzbeoCVzwKBgQDBNC/5Bm3Mg6jIAQx6djgjDWlDyNfHAg0+\nN+RWRuBX7+JsUST6tpNNkLsNd0bkwr5FMOjhlH1pWTFTZV3O5DmN591+FuAcm43Y\nc0Ur1M2Axq2qVGONbBo64PoXJghUTOBOQ2OHzO7wkvZW3qECDUlgSAdR0GsZi5iZ\n9JXncjKMaQKBgQDnREnC55sPUZyDAY1fgP1wi2DD8YBZ6m99bs3eOyZg+ORWclAA\nMTv4qR/KYL/yhwdGgzdQiiigVQQD3LV7+cQJXwjrhf9FpYNXsw1r30+mRwh3u821\n9fKlNVSTCT5XyMTbpKM+NUWxvMrbBoK7MvsLWAeUHlqet59B0Q7ohhIFHwKBgE9j\n1Hqty5yIVWiqFaiUv4iX0DOMai5ah3qTmP5i7Xj1F8OOrHVhZLIw0Mw9wSHrbCge\navOXAtmxTvWH575GRegr6PYRDFJ1ERpqc3gJX9CU03P0bVwFmdmr7NhqRm3tkRZX\n1qRM77pniVY08VBYiVhJAMj7raa3mCNbP+X1JRRRAn9/Y0xl7Yv/sSjvxe19kg/O\n8EHwiG+NCmQjyW6iHerq00HRgXq4d9+Oj35eiB9LfuhG/w9LX5xIepX2QONxYsKu\n4H4AQTIv0qkwtAc/jHBVo2Ew0Yn6OX9j/HSzK6hUziV/PyeYTGm7LtXyO3kSKF2z\nuw3RNmGrSFN/NuPXA+5Y\n-----END PRIVATE KEY-----\n",
+  "client_email": "continuous-integration-test@tidy-agency-253803.iam.gserviceaccount.com",
+  "client_id": "107633124440544055915",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/continuous-integration-test%40tidy-agency-253803.iam.gserviceaccount.com"
+}

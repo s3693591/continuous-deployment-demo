@@ -15,7 +15,7 @@ before_install:
   fi
 # [START auth]
 # Decrypt the credentials we added to the repo using the key we added with the Travis command line tool
-- [YOUR_COMMAND_OUTPUT]
+- openssl aes-256-cbc -K $encrypted_9b4b42df1675_key -iv $encrypted_9b4b42df1675_iv -in credentials.tar.gz.enc -out credentials.tar.gz -d
 # If the SDK is not already cached, download it and unpack it
 - if [ ! -d ${HOME}/google-cloud-sdk ]; then
      curl https://sdk.cloud.google.com | bash;
@@ -23,7 +23,7 @@ before_install:
 - tar -xzf credentials.tar.gz
 - mkdir -p lib
 # Here we use the decrypted service account credentials to authenticate the command line tool
-- gcloud auth activate-service-account --key-file client-secret.json
+- gcloud auth activate-service-account --key-file tidy-agency-253803-8722c4bfd2b5.json
 # [END auth]
 install:
 # Set the correct project to deploy to
